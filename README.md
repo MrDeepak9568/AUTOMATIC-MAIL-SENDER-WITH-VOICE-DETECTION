@@ -1,5 +1,5 @@
 # AUTOMATIC-MAIL-SENDER-WITH-VOICE-DETECTION
-The main idea of Our project is to create an innovative email system that allows users to send emails through voice commands
+The main idea of my project is to create an innovative email system that allows users to send emails through voice commands
 
 Before running this project, make sure to import the necessary libraries in your compiler so it works properly and produces the correct output.
 
